@@ -6,6 +6,8 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RasyaDevansyah&theme=radical&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -29,3 +31,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+
+
+
