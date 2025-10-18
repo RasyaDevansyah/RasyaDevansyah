@@ -4,7 +4,7 @@ I'm a 2nd-year Computer Science student at BINUS University with a passion for b
 
 - 👩🏻‍💻 I love bringing ideas to life, whether it's a dynamic website or an interactive game.
 - 🎓 I'm constantly learning and expanding my skillset.
-- 🌱 I’m currently focused on... 3D Game Systems in Godot
+- 🌱 I’m currently focused on 3D Game Systems in Godot
 
 <br/>
 
