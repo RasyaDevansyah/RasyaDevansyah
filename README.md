@@ -8,9 +8,9 @@ I'm a 2nd-year Computer Science student at BINUS University with a passion for b
 
 <br/>
 
-![](https://github-readme-stats-rasya-devansyahs-projects.vercel.app/api?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-iota-neon-43.vercel.app/api?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RasyaDevansyah&theme=radical&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats-rasya-devansyahs-projects.vercel.app/api/top-langs/?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-iota-neon-43.vercel.app/api/top-langs/?username=RasyaDevansyah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 
